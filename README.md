@@ -1,6 +1,6 @@
 # NodeConf Adventure UnConf Signup
 
-Schedule Signup for NodeConf Adventure.
+Schedule Signup for [NodeConf Adventure](http://nodeconf.com/).
 
 ## Schedule
 
